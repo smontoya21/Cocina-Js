@@ -1,0 +1,140 @@
+.nav-link {
+    color: black;
+    font-size: 25px;
+}
+
+.nav-link:hover {
+    color: #FA5858;
+    cursor: pointer;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item a{
+    color: black;
+    font-size: 25px;
+}
+
+.title {
+    color: white;
+    font-size: 35px;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    margin-top: 35px;
+    font-weight: 500;
+}
+
+.col-lg-6 {
+    background-color: #e76262;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+hr {
+    color: white;
+    border: 2px solid white;
+}
+
+.verde {
+    background-color: #ada94d;
+}
+
+.col-12 p {
+    color: black;
+    font-size: 16px;
+}
+
+.col-12 h2 {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+.carta {
+    font-weight: 500;
+    background-color: #f34f4f;
+}
+
+.bola {
+    color: black;
+    background-color: #beb747;
+}
+
+a {
+    background-color: #FA5858;
+    font-weight: 700;
+    border: none;
+}
+
+.container {
+    column-gap: 16px;
+}
+
+.p-0 h4 {
+    color: black;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+#lineas {
+    display: flex;
+    flex-wrap: nowrap;
+    column-gap: 15px;
+}
+
+.p-0 p {
+    color: black;
+    text-align: left;
+    font-size: 17px;
+}
+
+.titulo {
+    color: red;
+}
+
+.background-image {
+    background-image: url('../img/chef_bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.content {
+    position: relative;
+    color: white;
+}
+
+.footer p {
+    color: black;
+    font-size: 23px;
+}
